@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Beauty E-commerce website](https://github.com/PedroMB22/EcommerceBeauty)
 
-- 🌱 I’m currently learning **TypeScript, Phyton , Nest**
+- 🌱 I’m currently learning **TypeScript, Python , Nest**
 
 - 💬 Ask me about **react, JS , redux**
 
